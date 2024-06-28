@@ -1,4 +1,4 @@
-# Проект на Vue.js с использованием Vue Router, MongoDB, Express, Tailwind CSS, CORS, Axios и Nodemon
+# Проект на Vue.js с использованием  MongoDB, Express, Tailwind CSS, CORS, Axios и Nodemon
 
 ## Описание
 
